@@ -15,6 +15,6 @@ def DeleteData():
                 traceback.print_exc()
     except Exception:
             traceback.print_exc()
-
+#my work is over i submitted delete.py file
 
 DeleteData()
